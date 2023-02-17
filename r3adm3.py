@@ -2,7 +2,7 @@ from gtts import gTTS
 import os
 
 # Open the text file
-with open('/home/samsepi01/Desktop/responses.txt', 'r') as file:
+with open('Path of File', 'r') as file:
     # Read the contents of the file
     contents = file.read()
 
